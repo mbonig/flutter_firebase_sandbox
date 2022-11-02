@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "350149098302",
+    "project_id": "handegg-896df",
+    "storage_bucket": "handegg-896df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350149098302:android:fe63a50752c0372be80a6f",
+        "android_client_info": {
+          "package_name": "com.wolfbear.flutter_firebase_sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350149098302-pgg46mhkpjf1198s8c3i8d7hbrolpe87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOg4CJINT_tdi7-tIeTQO5Q-6B3vTCjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350149098302-pgg46mhkpjf1198s8c3i8d7hbrolpe87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350149098302-9oj35qrlfnv1i9hr76et4l1ts8g2lvbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wolfbear.handegg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350149098302:android:ebdf1b24e50c22b0e80a6f",
+        "android_client_info": {
+          "package_name": "com.wolfbear.handegg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350149098302-cfojbjl42gu7t6scjf0a9kjthvjs5i64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolfbear.handegg",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "350149098302-pgg46mhkpjf1198s8c3i8d7hbrolpe87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOg4CJINT_tdi7-tIeTQO5Q-6B3vTCjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350149098302-pgg46mhkpjf1198s8c3i8d7hbrolpe87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350149098302-9oj35qrlfnv1i9hr76et4l1ts8g2lvbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wolfbear.handegg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
